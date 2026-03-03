@@ -1,0 +1,11 @@
+timestamp,endpoint,response_time,status_code
+14:01,/login,120,200
+14:02,/login,850,500
+14:03,/dashboard,95,200
+14:04,/login,920,500
+14:05,/checkout,400,200
+14:06,/checkout,1100,504
+14:07,/dashboard,130,200
+14:08,/login,780,500
+14:09,/checkout,100,200
+14:10,/dashboard,75,200
